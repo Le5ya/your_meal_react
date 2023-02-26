@@ -15,8 +15,8 @@
   font-weight: 600;
   font-display: swap;
   src: local(''),
-    url('./assets/nunito-v25-latin_cyrillic-600.woff2') format('woff2'),
-    url('./assets/nunito-v25-latin_cyrillic-600.woff') format('woff');
+    url('./assets/fonts/nunito-v25-latin_cyrillic-600.woff2') format('woff2'),
+      url('./assetsfonts/nunito-v25-latin_cyrillic-600.woff') format('woff');
 }
 
 @font-face {
