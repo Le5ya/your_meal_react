@@ -1,10 +1,8 @@
 import style from './CatalogProduct.module.css';
-import image from '../../assets/img/photo-5.jpg';
-
 export const CatalogProduct = (props) => {
 	return (
 		<article className={style.product}>
-			<img src={image} alt={props.title} className={style.image} />
+			<img src="" alt={props.title} className={style.image} />
 
 			<p className={style.price}>689<span className="currency">₽</span></p>
 
