@@ -19,6 +19,12 @@
   grid-template-columns: repeat(auto-fit, 145px);
   gap: 10px;
 }
+.empty {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
 
 
 @media (min-width: 1024px) {
